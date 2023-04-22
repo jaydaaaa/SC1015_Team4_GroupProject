@@ -3,7 +3,6 @@ B133 (Team 4) DSAI Team Assignment
 The aim of this project is to understand the factors that causes accidents as well as predict the severity of an accident 
 
 ## The Dataset
-[Screenshot 2023-04-22 141605](https://user-images.githubusercontent.com/96281653/233796869-6a10423e-89f0-4eeb-b6af-25b2e4b40435.jpg)
 Our data was taken from kaggle. Refer to [this](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) link to view the data.
 
 ## Getting Started: 
