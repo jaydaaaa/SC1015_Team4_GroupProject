@@ -9,8 +9,10 @@ Our data was taken from kaggle. Refer to [this](https://www.kaggle.com/datasets/
 ## Getting Started: 
 Open the Jupyter notebook with your preferred application 
 
-## Presentation Video: 
-Please refer to [this](https://youtu.be/ELYn4RuLMiU) link to view our recorded presentation video on YouTube. 
+## Presentation: 
+Please refer to [this](https://youtu.be/ELYn4RuLMiU) link to view our recorded presentation video on YouTube.
+
+The presentation slides are also included in this repository.
 
 ## Resources 
 Here are the resources we used (for the project and presentation):
