@@ -1,5 +1,6 @@
 # Accident Severity Prediction
 B133 (Team 4) DSAI Team Assignment
+
 The aim of this project is to understand the factors that causes accidents as well as predict the severity of an accident 
 
 ## The Dataset
